@@ -1,0 +1,3 @@
+MyDefLastUrlEle = "/vuln"
+# Enable Algolia DocSearch
+algolia_docsearch = false
